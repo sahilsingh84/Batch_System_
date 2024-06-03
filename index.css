@@ -560,18 +560,18 @@ html{
     position: absolute;
     z-index: 3;
     top:100px;
-    left:200px;
+    left:100px;
 }
 .image2{
     position: absolute;
     z-index: 2;
-    left:350px;
+    left:250px;
     
 }
 .image3{
     position: absolute;
     z-index: 1;
-    left:550px;
+    left:410px;
 }
 .section7{
     width:80%;
